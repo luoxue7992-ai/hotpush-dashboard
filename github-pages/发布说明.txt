@@ -1,0 +1,1 @@
+仅将本目录文件发布到GitHub Pages。设置 Pages 来源为默认分支根目录。不要上传整个热点推送项目或.env.local。此版无自动采集和推送。更新数据：在原项目执行 python3 export_github_pages.py，再将本目录文件同步到仓库。
